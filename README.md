@@ -1,7 +1,7 @@
 # JavaScript Stack Boilerplate
 
-[![Build Status](https://img.shields.io/travis/verekia/js-stack-boilerplate.svg?style=flat-square)](https://travis-ci.org/verekia/js-stack-boilerplate)
-[![Coverage Status](https://img.shields.io/coveralls/verekia/js-stack-boilerplate.svg?style=flat-square)](https://coveralls.io/github/verekia/js-stack-boilerplate?branch=master)
+[![Build Status](https://img.shields.io/travis/GITHUB-USERNAME/GITHUB-REPO.svg?style=flat-square)](https://travis-ci.org/GITHUB-USERNAME/GITHUB-REPO)
+[![Coverage Status](https://img.shields.io/coveralls/GITHUB-USERNAME/GITHUB-REPO.svg?style=flat-square)](https://coveralls.io/github/GITHUB-USERNAME/GITHUB-REPO?branch=master)
 [![Dependencies](https://img.shields.io/david/verekia/js-stack-boilerplate.svg?style=flat-square)](https://david-dm.org/verekia/js-stack-boilerplate)
 [![Dev Dependencies](https://img.shields.io/david/dev/verekia/js-stack-boilerplate.svg?style=flat-square)](https://david-dm.org/verekia/js-stack-boilerplate?type=dev)
 
